@@ -1,7 +1,3 @@
-# python-algo
-Some algorithms written in python
-
-```python
 #!/usr/bin/python3
 import time
 from random import shuffle
@@ -18,4 +14,3 @@ print(randgen.randint(1, 10))
 print(randgen.randfloat(1.0, 10.0))
 print(randgen.randchoice(first_array))
 print(randgen.randshuffle(first_array))
-```
